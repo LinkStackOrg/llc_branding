@@ -1,2 +1,2 @@
-# branding
-Branding of LittleLink-Custom, including logos, icons &amp; banners
+# Branding
+Branding of LinkStack, including logos, icons &amp; banners
